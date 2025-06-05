@@ -3,8 +3,8 @@ params:
     enabled: true
     title: "Hello" # optional default will be site title
     subtitle: "This is subtitle"
-    imageUrl: "/images/gohugo-default-sample-hero-image.jpg" # optional
-    imageTitle: "kennel" # optional
+    imageUrl: "" # optional
+    imageTitle: "" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
