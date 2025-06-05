@@ -1,20 +1,9 @@
-/*.header {
+html,
+ body {
       height: 80vh;
       width: 100%;
       background-repeat: no-repeat;
       background-size: 100% 100%;
-      background-image: url(https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/gohugo-default-sample-hero-image.jpg);
-  } */
-html,
- body {
-  /* Предотвращаем повторение изображения !important */
-  background: url('https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/gohugo-default-sample-hero-image.jpg') no-repeat center center fixed !important;
-      
-  /* Обеспечиваем совместимость со старыми версиями браузеров */
-  -webkit-background-size: cover; /* Для Safari 3-4 */
-  -moz-background-size: cover;    /* Для старых версий Firefox */
-  -o-background-size: cover;      /* Для старых версий Opera */
-  
-  /* Стандартное свойство */
-  background-size: cover;
-}
+      background-image: url(https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/gohugo-default-sample-hero-image.jpg) !important;
+  }
+
