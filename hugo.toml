@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'KL'
 theme = 'PaperMod'
+image = '/images/gohugo-default-sample-hero-image.jpg'
 [params]
   ShowFullTextinRSS = true
   comments = true
