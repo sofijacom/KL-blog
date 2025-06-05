@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/sofijacom/KL-blog/'
 languageCode = 'en-us'
-title = 'KL'
+title = 'Kennel Linux'
 theme = 'PaperMod'
 [params]
   ShowFullTextinRSS = true
@@ -9,7 +9,7 @@ theme = 'PaperMod'
     disableScrollBarStyle = true
     disableHLJS = true
   [params.homeInfoParams]
-    title = "Sofiya blog"
+    title = "Sofiya Blog"
     content = "A blog which couldn't be updated less frequently."
   [[params.socialIcons]]
     name = "rss"
