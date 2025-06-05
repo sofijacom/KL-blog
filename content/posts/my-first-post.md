@@ -3,7 +3,7 @@ title = 'My First Post'
 slug: my-first-post
 date = '2025-06-05T06:01:54+03:00'
 author: Sofiya
-lastmod: 2025-06-04T19:51:16.000Z
+lastmod: 2025-06-05T06:01:54+03:00
 description: I created my first post.
 draft = true
 +++
