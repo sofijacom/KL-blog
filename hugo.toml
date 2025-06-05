@@ -1,8 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/sofijacom/KL-blog'
 languageCode = 'en-us'
 title = 'KL'
 theme = 'PaperMod'
-image = '/images/gohugo-default-sample-hero-image.jpg'
 [params]
   ShowFullTextinRSS = true
   comments = true
