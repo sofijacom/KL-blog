@@ -8,7 +8,7 @@ categories: ["themes", "syntax"]
 series: ["Themes Guide"]
 aliases: ["migrate-from-jekyl"]
 cover:
-  image: /images/msg.png
+  image: "https://adityatelange.github.io/hugo-PaperMod/images/msg_hu_b77e5aad919e3ac8.png"
   caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
 ShowToc: true
 TocOpen: true
