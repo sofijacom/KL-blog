@@ -1,9 +1,9 @@
 ---
 title: "Oversimplified DNS"
 slug: "oversimplified-dns"
-date: "2025-06-04T17:36:15.000Z"
+date: "2020-03-08T17:36:15.000Z"
 author: "schemar"
-lastmod: "2025-06-03T16:34:43.000Z"
+lastmod: "2020-08-23T16:34:43.000Z"
 description: "Our computers access a server via the server's IP address. Humans use domains instead. How do our browsers know the IP of a domain? The answer is DNS."
 ---
 
