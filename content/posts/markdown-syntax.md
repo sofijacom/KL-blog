@@ -8,7 +8,7 @@ categories: ["themes", "syntax"]
 series: ["Themes Guide"]
 aliases: ["migrate-from-jekyl"]
 cover:
-  image: images/msg.svg
+  image: "https://github.com/sofijacom/KL-blog/blob/7cc605498206bdbf41e49171660d63582a109fae/images/msg.svg"
   caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
 ShowToc: true
 TocOpen: true
