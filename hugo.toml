@@ -27,15 +27,15 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = "archive"
     name = "Archive"
-    url = "/archive/"
-  [[menu.main]]
-    identifier = "search"
-    name = "Search"
-    url = "/search/"  
+    url = "/archive/" 
   [[menu.main]]
     identifier = "rss"
     name = "RSS"
     url = "/index.xml"
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"    
 [outputs]
   home = ["HTML", "RSS"]
 [markup]
