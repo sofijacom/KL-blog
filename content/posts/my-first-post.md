@@ -2,6 +2,7 @@
 title: My First Post
 slug: My First Post
 date: 2025-06-05T06:01:54+03:00
+draft = true
 author: sofiya
 description: My First Post.
 ---
