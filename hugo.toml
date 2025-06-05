@@ -53,3 +53,8 @@ theme = 'PaperMod'
     tabWidth = 2
     wrapperClass = "highlight"
 
+caches:
+  images:
+    dir: :cacheDir/images
+
+    
