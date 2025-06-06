@@ -9,7 +9,7 @@ theme = 'PaperMod'
     disableScrollBarStyle = true
     disableHLJS = true
   [params.homeInfoParams]
-    title = "Sofiya Blog"
+#    title = "Sofiya Blog"
 #    content = "A blog which couldn't be updated less frequently."
     imageUrl = "" # optional
   [[params.socialIcons]]
