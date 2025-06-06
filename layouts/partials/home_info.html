@@ -2,7 +2,7 @@
 
 <style>	
 body {
-      height: 60vh;
+      height: 50vh;
       width: 100%;
       background-repeat: no-repeat !important;
       background-size: cover !important;  /* cover */
@@ -101,7 +101,7 @@ body {
         {{ .Content | markdownify }}
     </div>
     <div class="ananke-socials">
-    <footer class="entry-footer">
+    <footer class="footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
   </div>	
