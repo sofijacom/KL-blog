@@ -36,16 +36,20 @@ theme = 'PaperMod'
     identifier = "search"
     name = "Search"
     url = "/search/"
- tags = [
-  "responsive",
-  "simple",
-  "clean",
-  "light",
-  "dark",
-  "blog",
-  "minimalist",
-  "highlight.js",
-  "search"
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"  
+    tags = [
+    "responsive",
+    "simple",
+    "clean",
+    "light",
+    "dark",
+    "blog",
+    "minimalist",
+    "highlight.js",
+    "search"
 ]   
 [outputs]
   home = ["HTML", "RSS"]
