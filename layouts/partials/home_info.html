@@ -27,7 +27,7 @@
 <style>
 	
 body {
-      height: 80vh;
+      height: 50vh;
       width: 100%;
       background-repeat: no-repeat !important;
       background-size: cover !important;  /* cover */
@@ -118,3 +118,7 @@ body {
     initiallyVisible: false
   });
 </script>
+
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
