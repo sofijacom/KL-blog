@@ -12,10 +12,20 @@
 </article>
 {{- end -}} -->
 
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+</article>
+
 <header class="header">
 <style>
 	
-.header {
+.body {
       height: 80vh;
       width: 100%;
       background-repeat: no-repeat !important;
