@@ -19,11 +19,11 @@ theme = 'PaperMod'
     name = "github"
     url = "https://github.com/sofijacom"
   [[params.socialIcons]]
-    name = "linkedin"
-    url = ""
+    name = "youtube"
+    url = "@sofijacom"
   [[params.socialIcons]]
-    name = "stackoverflow"
-    url = ""
+    name = "email"
+    url = "sofija.p2018@gmail.com"
 [menu]
   [[menu.main]]
     identifier = "archive"
