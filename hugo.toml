@@ -13,9 +13,9 @@ theme = 'PaperMod'
     imageHeight = 120 # custom size
     [buttons]
        name = "Achive"
-        url = "/archive"
+       url = "/archive"
        name = "Github"
-        url = "https://github.com/"
+       url = "https://github.com/"
   ShowFullTextinRSS = true
   comments = true
   [params.assets]
