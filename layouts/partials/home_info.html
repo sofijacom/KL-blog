@@ -6,11 +6,6 @@
     <div class="entry-content">
         {{ .Content | markdownify }}
     </div>
-    <footer class="footer">
-        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
-    </footer>
-</article>
-{{- end -}}
 
 <style>	
 body {
@@ -104,3 +99,9 @@ body {
     initiallyVisible: false
   });
 </script>
+
+    <footer class="footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}
