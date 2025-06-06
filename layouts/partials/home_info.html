@@ -1,26 +1,3 @@
-{{- with site.Params.homeInfoParams }}
-<article class="first-entry home-info">
-    <header class="entry-header">
-        <h1>{{ .Title | markdownify }}</h1>
-<style>	
-body {
-      height: 50vh;
-      width: 100%;
-      background-repeat: no-repeat !important;
-      background-size: cover !important;  /* cover */
-     /* background-attachment: fixed; */
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-position: 50% !important;	
-      background-image: url(https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/gohugo-default-sample-hero-image.jpg) !important;
-      
-  }	
-</style>	    
-    </header>
-    <div class="entry-content">
-        {{ .Content | markdownify }}
-    </div>
 
 <style type="text/css" media="screen"> 
      svg {
@@ -98,9 +75,3 @@ body {
     initiallyVisible: false
   });
 </script>
-
-    <footer class="footer">
-        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
-    </footer>
-</article>
-{{- end -}}
