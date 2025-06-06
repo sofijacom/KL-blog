@@ -17,16 +17,16 @@ theme = 'PaperMod'
     url = "https://github.com/sofijacom"
   [[params.socialIcons]]
     name = "twitter"
-    url = "sofija_p2018"
+    url = "https://x.com/sofija_p2018/sofija_p2018"
   [[params.socialIcons]]
     name = "youtube"
-    url = "@sofijacom"
+    url = "https://www.youtube.com/@sofijacom"
   [[params.socialIcons]]
     name = "linkedin"
     url = ""
   [[params.socialIcons]]
     name = "rss"
-    url = "/index.xml"  
+    url = "https://sofijacom.github.io/KL-blog/index.xml"  
 [menu]
   [[menu.main]]
     identifier = "archive"
