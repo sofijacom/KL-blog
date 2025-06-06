@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Sofiya'
 theme = 'PaperMod'
 [params]
-  profileMode:
+  [profileMode]
     enabled = true
     title = "<Title>" # optional default will be site title
     subtitle = "This is subtitle"
@@ -11,7 +11,7 @@ theme = 'PaperMod'
     imageTitle = "<title of image as alt>" # optional
     imageWidth = 120 # custom size
     imageHeight = 120 # custom size
-    buttons:
+    [buttons]
        name = "Achive"
         url = "/archive"
        name = "Github"
