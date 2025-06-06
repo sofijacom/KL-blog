@@ -100,8 +100,10 @@ body {
     <div class="entry-content">
         {{ .Content | markdownify }}
     </div>
+    <div class="ananke-socials">
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
+  </div>	
 </article>
 {{- end -}}
