@@ -10,7 +10,8 @@ theme = 'PaperMod'
     disableHLJS = true
   [params.homeInfoParams]
     title = "Sofiya Blog"
-    content = "A blog which couldn't be updated less frequently."  
+    content = "A blog which couldn't be updated less frequently."
+    imageUrl = "" # optional
   [[params.socialIcons]]
     name = "rss"
     url = "/index.xml"
