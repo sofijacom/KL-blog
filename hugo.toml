@@ -11,6 +11,10 @@ theme = 'PaperMod'
   [params.homeInfoParams]
     title = "Blog"
     content = "A blog which couldn't be updated less frequently."
+    imageUrl = "" # optional
+    imageTitle = "" # optional
+    imageWidth = "120" # custom size
+    imageHeight = "120" # custom size
   [[params.socialIcons]]
     name = "rss"
     url = "/index.xml"
