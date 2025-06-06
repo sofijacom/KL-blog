@@ -13,11 +13,11 @@ theme = 'PaperMod'
     content = "• Expand your knowledge and stay informed with our engaging blog posts •"
     imageUrl = "" # optional
   [[params.socialIcons]]
-    name = "twitter"
-    url = "sofija_p2018"
-  [[params.socialIcons]]
     name = "github"
     url = "https://github.com/sofijacom"
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "sofija_p2018"
   [[params.socialIcons]]
     name = "youtube"
     url = "@sofijacom"
