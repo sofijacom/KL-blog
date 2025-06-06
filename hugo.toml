@@ -14,7 +14,7 @@ theme = 'PaperMod'
     imageUrl = "" # optional
   [[params.socialIcons]]
     name = "rss"
-    url = "/KL-blog/feed.xml"
+    url = "/KL-blog/feed.xslt.xml"
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/sofijacom"
