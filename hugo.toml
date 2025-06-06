@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/sofijacom/KL-blog/'
 languageCode = 'en-us'
-title = 'Kennel Linux'
+title = 'Sofiya'
 theme = 'PaperMod'
 [params]
   ShowFullTextinRSS = true
