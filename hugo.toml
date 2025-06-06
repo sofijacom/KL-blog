@@ -9,17 +9,18 @@ theme = 'PaperMod'
     disableScrollBarStyle = true
     disableHLJS = true
   [params.homeInfoParams]
+   [[profileMode]]
     title = "Blog"
     content = "A blog which couldn't be updated less frequently."
     imageUrl = "" # optional
     imageTitle = "" # optional
     imageWidth = "120" # custom size
     imageHeight = "120" # custom size
-      [buttons]
-       name = "Archive"
-       url = "/archive"
-       name = "Github"
-       url = "https://github.com/"
+  [[buttons]]
+    name = "Archive"
+    url = "/archive"
+    name = "Github"
+    url = "https://github.com/"
   [[params.socialIcons]]
     name = "rss"
     url = "/index.xml"
