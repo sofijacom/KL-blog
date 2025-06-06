@@ -2,9 +2,7 @@
 <article class="first-entry home-info">
     <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
-    </header>
-
-	<style>	
+<style>	
 body {
       height: 50vh;
       width: 100%;
@@ -18,7 +16,11 @@ body {
       background-image: url(https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/gohugo-default-sample-hero-image.jpg) !important;
       
   }	
-</style>
+</style>	    
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
 
 <style type="text/css" media="screen"> 
      svg {
@@ -49,12 +51,7 @@ body {
   <text text-anchor="middle" x="50" y="15" font-size="17" fill="url(#gradient)" fill-opacity="0.3">WELCOME</text>
 </svg>
   </p>
-	
-    <div class="entry-content">
-        {{ .Content | markdownify }}
-    </div>
-
-	
+		
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
 <script>
   /* paste this line in verbatim */
