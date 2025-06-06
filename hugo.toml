@@ -35,7 +35,18 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = "search"
     name = "Search"
-    url = "/search/"    
+    url = "/search/"
+ tags = [
+  "responsive",
+  "simple",
+  "clean",
+  "light",
+  "dark",
+  "blog",
+  "minimalist",
+  "highlight.js",
+  "search"
+]   
 [outputs]
   home = ["HTML", "RSS"]
 [markup]
