@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/sofijacom/KL-blog/'
 languageCode = 'en-us'
-title = 'Sofiya'
+title = 'Sofiya Blog'
 theme = 'PaperMod'
 [params]
   ShowFullTextinRSS = true
@@ -9,8 +9,8 @@ theme = 'PaperMod'
     disableScrollBarStyle = true
     disableHLJS = true
   [params.homeInfoParams]
-    title = "Sofiya Blog"
-    content = "A blog which couldn't be updated less frequently."
+    title = # "Sofiya Blog"
+    content = # "A blog which couldn't be updated less frequently."
     imageUrl = "" # optional
   [[params.socialIcons]]
     name = "rss"
