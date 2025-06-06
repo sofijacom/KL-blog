@@ -16,7 +16,6 @@ theme = 'PaperMod'
         url = "/archive"
        name = "Github"
         url = "https://github.com/"
-[params]
   ShowFullTextinRSS = true
   comments = true
   [params.assets]
