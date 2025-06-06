@@ -93,15 +93,10 @@
 }
 
 .top-link {
-    visibility: hidden;
-    position: fixed;
     bottom: 100px !important;
     right: 32px !important;
-    z-index: 99;
-    background: var(--tertiary);
-    width: 42px;
-    height: 42px;
-    padding: 12px;
-    border-radius: 64px;
-    transition: visibility .5s, opacity .8s linear;
+}
+
+.terms-tags a {
+    background: #cad3f5 !important;
 }
