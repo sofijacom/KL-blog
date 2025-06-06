@@ -52,7 +52,7 @@ theme = 'PaperMod'
     "search"
 ]   
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
