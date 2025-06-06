@@ -96,7 +96,7 @@
     visibility: hidden;
     position: fixed;
     bottom: 100px !important;
-    right: 30px;
+    right: 32px !important;
     z-index: 99;
     background: var(--tertiary);
     width: 42px;
