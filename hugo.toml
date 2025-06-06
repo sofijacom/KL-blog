@@ -23,7 +23,7 @@ theme = 'PaperMod'
     url = "https://www.youtube.com/@sofijacom"
   [[params.socialIcons]]
     name = "linkedin"
-    url = ""
+    url = "mailto:sofija.p2018@gmail.com"
   [[params.socialIcons]]
     name = "rss"
     url = "https://sofijacom.github.io/KL-blog/index.xml"  
