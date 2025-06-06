@@ -1,4 +1,5 @@
-.header {
+html,
+body {
       height: 60vh;
       width: 100%;
       background-repeat: no-repeat;
