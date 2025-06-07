@@ -1,6 +1,8 @@
 {{- with site.Params.homeInfoParams }}
 <article class="first-entry home-info">
+    <section class="home-about">
 	<div class="avatar"><img class="size-m" src="https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/avatar.webp" alt="avatar"></div>
+    </section>	
     <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
@@ -44,7 +46,16 @@ body {
   background-size: 100% 100% !important;
   background-repeat: no-repeat !important;
 }
+.home-about .avatar img.size-m {
+    height: 11rem;
+    width: 11rem;
+}
 
+.home-about .avatar img {
+    border-radius: 50%;
+    height: auto;
+    object-fit: cover;
+}
 /* nav {
   display: flex;
   align-items: center;
