@@ -5,8 +5,7 @@ theme = 'PaperMod'
 [params]
   avatarAltText = "avatar"
   avatarSize = "size-m"
-  avatarURL = "/images/avatar.webp"
-[params]
+  avatarURL = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/avatar.webp"
   ShowFullTextinRSS = true
   comments = true
   [params.assets]
