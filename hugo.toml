@@ -82,7 +82,6 @@ theme = 'PaperMod'
   [caches.images]
     dir = ':cacheDir/images'
 
-[params]
 [profileMode]
   enabled = false
   title = "PaperMod'
