@@ -119,7 +119,7 @@ url = "tags"
     dir = ':cacheDir/images'
     
 [params.cover]
-    hidden = true # hide everywhere but not in structured data
+    hidden = false # hide everywhere but not in structured data
     hiddenInList = false # hide on list pages and home
     hiddenInSingle = true # hide on single page
 
