@@ -1,5 +1,5 @@
-baseURL: "https://github.com/sofijacom/KL-blog/"
-title: ~ Sofiya Blog ~
+baseURL: "https://examplesite.com/"
+title: ExampleSite
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Sofiya Blog
-  description: "Expand your knowledge and stay informed with our engaging blog posts"
+  title: ExampleSite
+  description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -59,9 +59,9 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Sofiya Blog
+    title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
+    imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -83,10 +83,6 @@ params:
       url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/"
-    - name: youtube
-      url: "https://www.youtube.com/@sofijacom"
-    - name: email
-      url: "mailto:sofija.p2018@gmail.com"
 
   analytics:
     google:
