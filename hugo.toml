@@ -25,7 +25,30 @@ theme = 'PaperMod'
     url = "mailto:sofija.p2018@gmail.com"
   [[params.socialIcons]]
     name = "rss"
-    url = "https://sofijacom.github.io/KL-blog/index.xml"  
+    url = "https://sofijacom.github.io/KL-blog/index.xml"
+    
+[params.label]
+text = "Maarten's Blog"
+icon = "/apple-touch-icon.png"
+iconHeight = 35
+
+[params.profileMode]
+enabled = false
+title = "Maarten's Blog"
+subtitle = "Gewoon mijn inzichten"
+imageUrl = "/assets/maarten.jpg"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "Maarten Casteels"
+
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "posts"
+
+[[params.profileMode.buttons]]
+name = "Tags"
+url = "tags"
+
 [menu]
   [[menu.main]]
     identifier = "archive"
@@ -81,3 +104,5 @@ theme = 'PaperMod'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+
