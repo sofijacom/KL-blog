@@ -5,6 +5,12 @@ theme = 'PaperMod'
 [params]
   ShowFullTextinRSS = true
   comments = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowWordCount = true
+  UseHugoToc = true
+  ShowRssButtonInSectionTermList = true
   [params.assets]
     disableScrollBarStyle = true
     disableHLJS = true
