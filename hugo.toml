@@ -117,15 +117,6 @@ url = "tags"
 [pagination]
 pagerSize = 5
 
-[minify]
-disableXML = true
-minifyOutput = true
-
-[permalinks]
-posts = "/posts/:contentbasename"
-
-pygmentsUseClasses = true
-
 #[params.analytics.google]
 #SiteVerificationTag = "XYZabc"
 
