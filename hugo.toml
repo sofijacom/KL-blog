@@ -19,7 +19,7 @@ theme = 'PaperMod'
     disableHLJS = true
   [params.homeInfoParams]
     title = "Hi there 👋" # "•Sofiya Blog•"
-    content = "Welcome to my blog" # "Expand your knowledge and stay informed with our engaging blog posts"
+    content = "Expand your knowledge and stay up to date" # "Expand your knowledge and stay informed with our engaging blog posts"
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/sofijacom"
