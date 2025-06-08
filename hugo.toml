@@ -33,7 +33,7 @@ icon = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/imag
 iconHeight = 35
 
 [params.profileMode]
-enabled = false   # true
+enabled = true   # true / false
 title = "Sofiya Blog"
 subtitle = "Expand your knowledge and stay informed with our engaging blog posts"
 imageUrl = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
