@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/sofijacom/KL-blog/'
 languageCode = 'en-us'
-logo_small = 'https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/avatar.webp'
+logo = 'https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/avatar.webp'
 title = '• Sofiya Blog'
 theme = 'PaperMod'
 [params]
