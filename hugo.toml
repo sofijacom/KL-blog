@@ -3,16 +3,6 @@ languageCode = 'en-us'
 title = 'Sofiya Blog'
 theme = 'PaperMod'
 [params]
-  [profileMode]
-    imageUrl = "<image link>" # optional
-    imageTitle = "<title of image as alt>" # optional
-    imageWidth = 120 # custom size
-    imageHeight = 120 # custom size
-    [buttons]
-      name = "Archive"
-        url = "/archive"
-        name = "Github""
-        url = "https://github.com/"
   ShowFullTextinRSS = true
   comments = true
   [params.assets]
@@ -21,6 +11,16 @@ theme = 'PaperMod'
   [params.homeInfoParams]
     title = "•Sofiya Blog•"
     content = "Expand your knowledge and stay informed with our engaging blog posts"
+  [profileMode]
+    imageUrl = "<image link>" # optional
+    imageTitle = "<title of image as alt>" # optional
+    imageWidth = 120 # custom size
+    imageHeight = 120 # custom size
+  [buttons]
+    name = "Archive"
+    url = "/archive"
+    name = "Github""
+    url = "https://github.com/" 
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/sofijacom"
