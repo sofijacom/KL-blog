@@ -28,12 +28,13 @@ theme = 'PaperMod'
     url = "https://sofijacom.github.io/KL-blog/index.xml"
     
 [params.label]
+enabled = false
 text = "•Sofiya Blog"
 icon = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
 iconHeight = 35
 
 [params.profileMode]
-enabled = true   # true / false
+enabled = false   # true / false
 title = "Sofiya Blog"
 subtitle = "Expand your knowledge and stay informed with our engaging blog posts"
 imageUrl = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
