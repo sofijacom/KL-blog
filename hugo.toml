@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Sofiya Blog'
 theme = 'PaperMod'
 [params]
-  [[profileMode]]
+  [profileMode]
     enabled = true
     title = "<Title>" # optional default will be site title
     subtitle = "This is subtitle"
