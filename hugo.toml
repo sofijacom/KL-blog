@@ -126,13 +126,6 @@ posts = "/posts/:contentbasename"
 
 pygmentsUseClasses = true
 
-[outputs]
-home = ["HTML"]
-section = ["HTML"]
-taxonomy = ["HTML"]
-term = ["HTML"]
-page = ["HTML"]
-
 #[params.analytics.google]
 #SiteVerificationTag = "XYZabc"
 
