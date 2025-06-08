@@ -10,16 +10,9 @@ theme = 'PaperMod'
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = false
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
-  disableSpecial1stPost = false
-  disableScrollToTop = false
-  hidemeta = false
-  hideSummary = false
-  showtoc = false
-  tocopen = false
   [params.assets]
     disableScrollBarStyle = true
     disableHLJS = true
