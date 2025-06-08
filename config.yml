@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Sofiya Blog
+  title: Sofiya
   description: "Expand your knowledge and stay informed with our engaging blog posts"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Sofiya Blog
+    title: Blog
     subtitle: "This is subtitle"
     imageUrl: "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
     imageWidth: 120
