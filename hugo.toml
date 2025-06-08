@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Sofiya Blog'
 pagination.pagerSize = 5
 theme = 'PaperMod'
+
 [params]
   ShowFullTextinRSS = true
   comments = true
