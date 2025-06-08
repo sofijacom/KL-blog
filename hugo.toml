@@ -29,13 +29,13 @@ theme = 'PaperMod'
     
 [params.label]
 text = "Sofiya Blog"
-icon = "images/logo.jpg"
+icon = "/images/logo.jpg"
 iconHeight = 35
 
 [params.profileMode]
 enabled = true
 title = "Sofiya Blog"
-subtitle = "Gewoon mijn inzichten"
+subtitle = "Expand your knowledge and stay informed with our engaging blog posts"
 imageUrl = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
 imageWidth = 120
 imageHeight = 120
