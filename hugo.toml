@@ -110,7 +110,7 @@ url = "tags"
     lineNos = true
     lineNumbersInTable = true
     noClasses = false
-    style = "catppuccin-macchiato"
+    style = "catppuccin-latte" # "catppuccin-macchiato"
     tabWidth = 2
     wrapperClass = "highlight"
     
@@ -119,9 +119,9 @@ url = "tags"
     dir = ':cacheDir/images'
     
 [params.cover]
-    hidden = false # hide everywhere but not in structured data
-    hiddenInList = false # hide on list pages and home
-    hiddenInSingle = false # hide on single page
+    hidden = true # hide everywhere but not in structured data
+    hiddenInList = true # hide on list pages and home
+    hiddenInSingle = true # hide on single page
 
 [params.editPost]
 URL = "https://github.com/sofijacom/KL-blog/blob/main/content"
