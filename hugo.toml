@@ -110,3 +110,13 @@ url = "tags"
 
 [pagination]
 pagerSize = 5
+
+#[params.analytics.google]
+#SiteVerificationTag = "XYZabc"
+
+#[params.analytics.bing]
+#SiteVerificationTag = "XYZabc"
+
+#[params.analytics.yandex]
+#SiteVerificationTag = "XYZabc"
+
