@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/sofijacom/KL-blog/'
+baseURL = 'https://sofijacom.github.io/KL-blog/'
 languageCode = 'en-us'
 title = 'Sofiya Blog'
 pagination.pagerSize = 5
