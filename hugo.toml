@@ -1,7 +1,6 @@
 baseURL = 'https://github.com/sofijacom/KL-blog/'
 languageCode = 'en-us'
 title = 'Sofiya Blog'
-paginate = 5
 theme = 'PaperMod'
 [params]
   ShowFullTextinRSS = true
