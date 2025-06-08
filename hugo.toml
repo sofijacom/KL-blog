@@ -36,10 +36,16 @@ theme = 'PaperMod'
   [[params.socialIcons]]
     name = "rss"
     url = "https://sofijacom.github.io/KL-blog/index.xml"
+
+[params.assets]
+favicon = ""
+favicon16x16 = ""
+favicon32x32 = "/assets/favicon-32x32.png"
+logo = "/images/logo.jpg"
     
 [params.label]
 text = "Sofiya Blog"
-icon = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
+icon = "/logo.jpg"
 iconHeight = 35
 
 [params.profileMode]
