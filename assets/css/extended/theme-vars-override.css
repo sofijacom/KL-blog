@@ -102,3 +102,8 @@
     background: #cad3f5 !important;
     color: #4a4d68 !important;
 }
+
+button#theme-toggle {
+    font-size: 32px !important;
+    margin: auto 5px !important;
+}
