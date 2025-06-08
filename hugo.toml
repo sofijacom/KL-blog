@@ -9,10 +9,11 @@ theme = 'PaperMod'
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
-  UseHugoToc = true
+UseHugoToc = true
   [params.assets]
     disableScrollBarStyle = true
     disableHLJS = true
