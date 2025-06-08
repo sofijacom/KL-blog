@@ -34,7 +34,7 @@ theme = 'PaperMod'
     url = "https://sofijacom.github.io/KL-blog/index.xml"
     
 [params.label]
-text = "•Sofiya Blog"
+text = "Sofiya Blog"
 icon = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
 iconHeight = 35
 
