@@ -43,7 +43,7 @@ icon = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/imag
 iconHeight = 35
 
 [params.profileMode]
-enabled = true   # Toggle default theme mode - true / false 
+enabled = false   # Toggle default theme mode - true / false 
 title = "Sofiya Blog"
 subtitle = "Expand your knowledge and stay informed with our engaging blog posts"
 imageUrl = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
@@ -110,7 +110,7 @@ url = "tags"
     lineNos = true
     lineNumbersInTable = true
     noClasses = false
-    style = "catppuccin-latte" # "catppuccin-macchiato"
+    style = "catppuccin-macchiato" # "catppuccin-macchiato" / "catppuccin-latte"
     tabWidth = 2
     wrapperClass = "highlight"
     
