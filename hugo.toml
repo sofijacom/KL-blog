@@ -40,12 +40,12 @@ theme = 'PaperMod'
 [params.assets]
 favicon = ""
 favicon16x16 = ""
-favicon32x32 = "/assets/favicon-32x32.png"
-logo = "/images/logo.jpg"
+favicon32x32 = ""
+apple_touch_icon = "/assets/apple-touch-icon.jpg"
     
 [params.label]
 text = "Sofiya Blog"
-icon = "/logo.jpg"
+icon = "/apple-touch-icon.jpg"
 iconHeight = 35
 
 [params.profileMode]
