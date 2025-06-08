@@ -38,9 +38,9 @@ theme = 'PaperMod'
     url = "https://sofijacom.github.io/KL-blog/index.xml"
 
 [params.assets]
-favicon = ""
-favicon16x16 = ""
-favicon32x32 = ""
+#favicon = ""
+#favicon16x16 = ""
+#favicon32x32 = ""
 apple_touch_icon = "/assets/apple-touch-icon.jpg"
     
 [params.label]
