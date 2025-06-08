@@ -11,7 +11,7 @@ theme = 'PaperMod'
     imageTitle = "<title of image as alt>" # optional
     imageWidth = 120 # custom size
     imageHeight = 120 # custom size
-    [[buttons]]
+    [buttons]
       name = "Archive"
         url = "/archive"
         name = "Github""
