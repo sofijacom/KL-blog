@@ -121,6 +121,21 @@ hidden = true
 hiddenInList = false
 hiddenInSingle = false
 
+[params.editPost]
+URL = "https://github.com/sofijacom/KL-blog/blob/main/content"
+Text = "Wijziging voorstellen"
+appendFilePath = true
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+limit = 10
+keys = ["title", "permalink", "summary", "content"]
+
 #[params.analytics.google]
 #SiteVerificationTag = "XYZabc"
 
