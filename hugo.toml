@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/sofijacom/KL-blog/'
 languageCode = 'en-us'
-title = 'Sofiya Blog'
+title = '• Sofiya Blog •'
 theme = 'PaperMod'
 [params]
   disabled_logo = false
@@ -11,7 +11,7 @@ theme = 'PaperMod'
     disableScrollBarStyle = true
     disableHLJS = true
   [params.homeInfoParams]
-    title = "• Sofiya Blog •"
+    title = "My name is Sofia"
     content = "Expand your knowledge and stay informed with our engaging blog posts"
     imageUrl = "" # optional
   [[params.socialIcons]]
