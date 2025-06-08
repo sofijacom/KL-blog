@@ -68,7 +68,7 @@ url = "tags"
     url = "/index.xml"
   [[menu.main]]
     identifier = "search"
-    name = " 🔍 Search"
+    name = "Search" # 🔍
     url = "/search/"
   [[menu.main]]
     identifier = "tags"
