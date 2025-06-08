@@ -28,7 +28,7 @@ theme = 'PaperMod'
     url = "https://sofijacom.github.io/KL-blog/index.xml"
     
 [params.label]
-text = "~ Sofiya Blog"
+text = "•Sofiya Blog"
 icon = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
 iconHeight = 35
 
@@ -39,7 +39,7 @@ subtitle = "Expand your knowledge and stay informed with our engaging blog posts
 imageUrl = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
 imageWidth = 120
 imageHeight = 120
-imageTitle = "~Title~"
+imageTitle = "my image"
 
 [[params.profileMode.buttons]]
 name = "Posts"
@@ -81,8 +81,10 @@ url = "tags"
     identifier = "wiki"
     name = "WiKi"
     url = "https://github.com/adityatelange/hugo-PaperMod/wiki/"
+    
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -101,6 +103,7 @@ url = "tags"
     style = "catppuccin-macchiato"
     tabWidth = 2
     wrapperClass = "highlight"
+    
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
