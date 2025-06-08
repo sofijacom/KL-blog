@@ -61,7 +61,7 @@ params:
     enabled: false # needs to be explicitly set
     title: Sofiya Blog
     subtitle: "This is subtitle"
-    imageUrl: "<https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg>"
+    imageUrl: "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
