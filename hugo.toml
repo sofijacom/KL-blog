@@ -25,12 +25,7 @@ theme = 'PaperMod'
     url = "mailto:sofija.p2018@gmail.com"
   [[params.socialIcons]]
     name = "rss"
-    url = "https://sofijacom.github.io/KL-blog/index.xml"
-[buttons]
-    name = "Archive"
-    url = "/archive"
-    name = "Github"
-    url = "https://github.com/"    
+    url = "https://sofijacom.github.io/KL-blog/index.xml"   
 [menu]
   [[menu.main]]
     identifier = "archive"
