@@ -115,6 +115,11 @@ url = "tags"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+    
+[params.cover]
+hidden = true
+hiddenInList = false
+hiddenInSingle = false
 
 #[params.analytics.google]
 #SiteVerificationTag = "XYZabc"
