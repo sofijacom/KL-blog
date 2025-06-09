@@ -77,7 +77,7 @@
   --content: var(--catppuccin-macchiato-text);
   --hljs-bg: var(--catppuccin-macchiato-surface0);
   --code-bg: var(--catppuccin-macchiato-surface0);
-  --border: var(--catppuccin-macchiato-lavender);
+  --border: var(--catppuccin-macchiato-overlay0);    /* --catppuccin-macchiato-lavender */
 }
 
 .dark.list {
