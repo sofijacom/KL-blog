@@ -156,3 +156,20 @@ This element styles large blocks of code.
 	and here's a line of some really, really, really, really long text, just to see how the PRE element handles it and to find out how it overflows;
 }
 </pre>
+
+## Structure
+
+<pre>
+~/.config/*	
+├── text
+│   ├── text
+│   │   ├── text
+│   │   ├── text
+│   │   ├── text
+│   │   └── text
+│   └── text
+│       ├── text
+│       ├── **
+│       └── text
+└── text
+</pre>
