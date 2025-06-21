@@ -1,6 +1,6 @@
 baseURL = 'https://sofijacom.github.io/KL-blog/'
 languageCode = 'en-us'
-title = 'SV'
+title = 'S.V'
 pagination.pagerSize = 5
 theme = 'PaperMod'
 
