@@ -89,7 +89,7 @@
 }
 
 .post-content pre code {
-  background-color: var(--catppuccin-latte-surface0) !important;
+  background-color: var(--catppuccin-macchiato-surface0) !important;
 }
 
 /* добавлено мной */
@@ -101,7 +101,7 @@
 .terms-tags a {
     border-radius: 8px !important;
     padding: 2px 10px 2px 10px !important;
-    border: 1px solid var(--catppuccin-macchiato-overlay0);
+    border: 1px solid var(--catppuccin-latte-overlay0);
 }
 /* button#theme-toggle {
     font-size: 32px !important;
