@@ -100,8 +100,6 @@
 
 .terms-tags a {
     display: block;
-    padding: 3px 10px;
-    border-radius: 6px;
     transition: transform .1s;
     border-radius: 8px;
     padding: 2px 10px 2px 10px;
