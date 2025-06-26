@@ -51,7 +51,7 @@ iconHeight = 35
 [params.profileMode]
 enabled = true   # Toggle default theme mode - true / false 
 title = "Sofiya Blog"
-subtitle = "Expand your knowledge and stay informed with our engaging blog posts"
+subtitle = "Expand your knowledge and stay up to date"
 imageUrl = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.jpg"
 imageWidth = 120
 imageHeight = 120
