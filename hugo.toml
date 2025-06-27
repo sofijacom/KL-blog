@@ -120,7 +120,7 @@ url = "tags"
     lineNos = true
     lineNumbersInTable = true
     noClasses = false
-    style = "catppuccin-macchiato"
+    style = "catppuccin-latte" # catppuccin-latte / catppuccin-macchiato
     tabWidth = 2
     wrapperClass = "highlight"
     
