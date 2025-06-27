@@ -84,13 +84,13 @@
   background: var(--theme);
 }
 
-/* .chroma {
+.chroma {
   background-color: var(--catppuccin-macchiato-base) !important; /* --catppuccin-macchiato-surface0 */
-} */
+}
 
-/*.post-content pre code {
+.post-content pre code {
   background-color: var(--catppuccin-macchiato-base) !important;
-} */
+}
 
 /* добавлено мной */
 .top-link {
