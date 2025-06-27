@@ -121,7 +121,7 @@ url = "tags"
     lineNumbersInTable = true
     noClasses = false
    # pygmentsUseClasses = false
-    style = "catppuccin-latte" # catppuccin-latte / catppuccin-macchiato
+    style = "catppuccin-macchiato" # catppuccin-latte / catppuccin-macchiato
     tabWidth = 2
     wrapperClass = "highlight"
     
