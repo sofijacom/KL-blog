@@ -21,6 +21,7 @@ theme = 'PaperMod'
   hideSummary = false
   showtoc = false
   tocopen = false
+  disableThemeToggle = true
   [params.assets]
     disableScrollBarStyle = true
     disableHLJS = true
