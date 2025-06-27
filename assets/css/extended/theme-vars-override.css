@@ -77,19 +77,19 @@
   --content: var(--catppuccin-macchiato-text);
   --hljs-bg: var(--catppuccin-macchiato-surface0);
   --code-bg: var(--catppuccin-macchiato-surface0);
-  --border: var(--catppuccin-macchiato-overlay0);    /* --catppuccin-macchiato-lavender */
+  --border: var(--catppuccin-macchiato-overlay0);
 }
 
 .dark.list {
   background: var(--theme);
 }
 
-.chroma {
-  background-color: var(--catppuccin-latte-base) !important; /* --catppuccin-macchiato-surface0 */
-}
+/* .chroma {
+  background-color: var(--catppuccin-macchiato-base) !important; /* --catppuccin-macchiato-surface0 */
+} */
 
 /*.post-content pre code {
-  background-color: var(--catppuccin-latte-base) !important;
+  background-color: var(--catppuccin-macchiato-base) !important;
 } */
 
 /* добавлено мной */
