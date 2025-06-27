@@ -88,9 +88,9 @@
   background-color: var(--catppuccin-latte-base) !important; /* --catppuccin-macchiato-surface0 */
 }
 
-.post-content pre code {
+/*.post-content pre code {
   background-color: var(--catppuccin-latte-base) !important;
-}
+} */
 
 /* добавлено мной */
 .top-link {
