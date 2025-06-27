@@ -24,7 +24,7 @@ theme = 'PaperMod'
   disableThemeToggle = true
   # defaultTheme: light
   # defaultTheme: dark
-  defaultTheme = auto # to switch between dark or light according to browser theme
+  defaultTheme = "auto" # to switch between dark or light according to browser theme
   [params.assets]
     disableScrollBarStyle = true
     disableHLJS = true
