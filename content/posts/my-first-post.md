@@ -1,10 +1,10 @@
 ---
-title: My First Post
-slug: My First Post
+title: "My First Post"
+slug: "My First Post"
 date: 2025-06-05T06:01:54+03:00
 draft: false
 author: Sofiya
-description: My First Post.
+description: "My First Post."
 ---
 
 ## Introduction
