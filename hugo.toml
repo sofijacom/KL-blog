@@ -149,6 +149,8 @@ minMatchCharLength = 0
 limit = 10
 keys = ["title", "permalink", "summary", "content"]
 
+Cache-Control = "max-age=31536000"
+
 #[params.analytics.google]
 #SiteVerificationTag = "XYZabc"
 
