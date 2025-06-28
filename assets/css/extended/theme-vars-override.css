@@ -85,11 +85,11 @@
 }
 
 .chroma {
-  background-color: var(--catppuccin-macchiato-surface0) !important; /* --catppuccin-macchiato-surface0 */
+  background-color: var(--catppuccin-macchiato-mantle) !important; /* --catppuccin-macchiato-surface0 */
 }
 
 .post-content pre code {
-  background-color: var(--catppuccin-macchiato-surface0) !important; /* --catppuccin-macchiato-base */
+  background-color: var(--catppuccin-macchiato-mantle) !important; /* --catppuccin-macchiato-surface0 */
 }
 
 /* добавлено мной */
