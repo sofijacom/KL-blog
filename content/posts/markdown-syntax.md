@@ -142,15 +142,3 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
   </body>
 </html>
 ```
-
-## Element code
-
-```css
-.post-title {
-	margin: 0 0 5px;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 1.2;
-}
-```
-
