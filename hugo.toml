@@ -72,19 +72,19 @@ url = "tags"
 [menu]
   [[menu.main]]
     identifier = "archive"
-    name = "Archive 🗄️"
+    name = "🗄️ Archive"
     url = "/archive/" 
   [[menu.main]]
     identifier = "rss"
-    name = "RSS 🛜"
+    name = "🛜 RSS"
     url = "/index.xml"
   [[menu.main]]
     identifier = "search"
-    name = "Search 🔍" # 🔍
+    name = "🔍 Search" # 🔍
     url = "/search/"
   [[menu.main]]
     identifier = "tags"
-    name = "Tags 🏷️"
+    name = "🏷️ Tags"
     url = "/tags/"  
     tags = [
     "responsive",
@@ -99,7 +99,7 @@ url = "tags"
 ]
   [[menu.main]]
     identifier = "wiki"
-    name = "WiKi 🆆"
+    name = "🆆 WiKi"
     url = "https://github.com/adityatelange/hugo-PaperMod/wiki/"
     
 [outputs]
