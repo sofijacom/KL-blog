@@ -72,7 +72,7 @@ url = "tags"
 [menu]
   [[menu.main]]
     identifier = "archive"
-    name = "Archive"
+    name = "🗄️ Archive"
     url = "/archive/" 
   [[menu.main]]
     identifier = "rss"
@@ -80,7 +80,7 @@ url = "tags"
     url = "/index.xml"
   [[menu.main]]
     identifier = "search"
-    name = "Search" # 🔍
+    name = "🔍 Search" # 🔍
     url = "/search/"
   [[menu.main]]
     identifier = "tags"
