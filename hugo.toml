@@ -76,7 +76,7 @@ url = "tags"
     url = "/archive/" 
   [[menu.main]]
     identifier = "rss"
-    name = "RSS"
+    name = "RSS "
     url = "/index.xml"
   [[menu.main]]
     identifier = "search"
