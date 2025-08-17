@@ -15,7 +15,7 @@ _I am an IT technology engineer. Ability and desire for constant self-learning. 
 
 👇
 
-<img align='left' src="/images/resume-s.png" style="margin-right: 10px; margin-top: -10px;" height="auto" width="200" alt="sv-resume" />
+<img align='left' src="/images/resume-s.png/" style="margin-right: 10px; margin-top: -10px;" height="auto" width="200" alt="sv-resume" />
 
 <p align="center">
   
