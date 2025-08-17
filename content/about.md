@@ -15,7 +15,7 @@ _I am an IT technology engineer. Ability and desire for constant self-learning. 
 
 - contact information 👇
 
-<img align='left' src="https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/resume-s.png" style="margin-right: 10px; margin-top: 10px;" height="auto" width="200" alt="sv-resume" />
+<img align='left' src="https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/resume-s.png" style="margin-right: 10px; margin-top: 40px;" height="auto" width="200" alt="sv-resume" />
 
 <p align="center">
   
