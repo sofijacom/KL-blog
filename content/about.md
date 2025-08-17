@@ -28,3 +28,5 @@ _I am an IT technology engineer. Ability and desire for constant self-learning. 
 
 **Sofiya Blog:** [💜 Sofiya 🌹](https://sofijacom.github.io/KL-blog/)
 
+**Kennel linux:** [ Website ](https://sofijacom.github.io/)
+
