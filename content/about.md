@@ -30,3 +30,4 @@ _I am an IT technology engineer. Ability and desire for constant self-learning. 
 
 **Kennel linux:** [🌐 Website 🌏](https://sofijacom.github.io/)
 
+---
