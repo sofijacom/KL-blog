@@ -11,7 +11,7 @@ showPagination: false
 
 > My name is Sofiya
 
-I am an IT technology engineer. Ability and desire for constant self-learning. I'm bad at programming. I mostly write scripts for personal use.
+_I am an IT technology engineer. Ability and desire for constant self-learning. I'm bad at programming. I mostly write scripts for personal use._
 
 👇
 
