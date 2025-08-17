@@ -71,7 +71,7 @@ url = "tags"
 
 [menu]
   [[menu.main]]
-    identifier = "About"  
+    identifier = "about"  
     name = "👤 About" # 👤
     url = "/about/"
   [[menu.main]]    
