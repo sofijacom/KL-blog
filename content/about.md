@@ -9,7 +9,7 @@ showWordCount: false
 showPagination: false
 ---
 
-> My name is <span style="color:#ff0000;font-style:normal;font-weight:700;font-size:16px">Sofiya</span>
+> My name is <span style="color:#ab47bc;font-style:normal;font-weight:700;font-size:16px">Sofiya</span>
 
 _I am an IT technology engineer. Ability and desire for constant self-learning. I'm bad at programming. I mostly write scripts for personal use._
 
