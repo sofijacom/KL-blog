@@ -53,10 +53,10 @@ icon = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/imag
 iconHeight = 35
 
 [params.profileMode]
-enabled = true   # Toggle default theme mode - true / false 
+enabled = false   # Toggle default theme mode - true / false 
 title = "Sofiya Blog"
 subtitle = "Expand your knowledge and stay up to date"
-imageUrl = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.webp"
+#imageUrl = "https://raw.githubusercontent.com/sofijacom/KL-blog/refs/heads/main/images/logo.webp"
 imageWidth = 200 # 120
 imageHeight = 200 # 120
 imageTitle = "my image"
