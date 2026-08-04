@@ -1,0 +1,81 @@
+:root {
+  --blueberry-peach-light-background: #FAF4ED;
+  --blueberry-peach-light-blue: #1675AB;
+  --blueberry-peach-light-dimmed: #9C8282;
+  --blueberry-peach-light-green: #288043;
+  --blueberry-peach-light-orange: #AC591C;
+  --blueberry-peach-light-overlay0: #585858;
+  --blueberry-peach-light-overlay1: #646464;
+  --blueberry-peach-light-overlay2: #707070;
+  --blueberry-peach-light-pink: #A352A0;
+  --blueberry-peach-light-red: #C34165;
+  --blueberry-peach-light-subtext: #908A84;
+  --blueberry-peach-light-surface0: #FFFAF0;
+  --blueberry-peach-light-surface1: #F1ECE5;
+  --blueberry-peach-light-surface2: #E8DFD4;
+  --blueberry-peach-light-teal: #007E7D;
+  --blueberry-peach-light-text: #5B5B5B;
+  --blueberry-peach-light-violet: #6A67B4;
+  --blueberry-peach-light-yellow: #8A7400;
+
+  --blueberry-peach-dark-background: #191724;
+  --blueberry-peach-dark-blue: #7AA8CE;
+  --blueberry-peach-dark-dimmed: #7C7992;
+  --blueberry-peach-dark-green: #75B087;
+  --blueberry-peach-dark-orange: #C79A76;
+  --blueberry-peach-dark-overlay0: #84848C;
+  --blueberry-peach-dark-overlay1: #808084;
+  --blueberry-peach-dark-overlay2: #7D7D7D;
+  --blueberry-peach-dark-pink: #C394C2;
+  --blueberry-peach-dark-red: #DF8BA0;
+  --blueberry-peach-dark-subtext: #878794;
+  --blueberry-peach-dark-surface0: #0B0A0F;
+  --blueberry-peach-dark-surface1: #37363E;
+  --blueberry-peach-dark-surface2: #37363E;
+  --blueberry-peach-dark-teal: #5EB1AF;
+  --blueberry-peach-dark-text: #A2A2A9;
+  --blueberry-peach-dark-violet: #A19DD4;
+  --blueberry-peach-dark-yellow: #C7B96F;
+
+  --theme: var(--blueberry-peach-light-background);
+  --entry: var(--blueberry-peach-light-surface0);
+  --primary: var(--blueberry-peach-light-violet);
+  --secondary: var(--blueberry-peach-light-text);
+  --tertiary: var(--blueberry-peach-light-surface1);
+  --content: var(--blueberry-peach-light-text);
+  --hljs-bg: var(--blueberry-peach-light-surface0);
+  --code-bg: var(--blueberry-peach-light-surface0);
+  --border: var(--blueberry-peach-light-dimmed);
+}
+
+.list {
+  background: var(--theme);
+}
+
+:root[data-theme="dark"] {
+  --theme: var(--blueberry-peach-dark-background);
+  --entry: var(--blueberry-peach-dark-surface0);
+  --primary: var(--blueberry-peach-dark-violet);
+  --secondary: var(--blueberry-peach-dark-text);
+  --tertiary: var(--blueberry-peach-dark-surface1);
+  --content: var(--blueberry-peach-dark-text);
+  --hljs-bg: var(--blueberry-peach-dark-surface0);
+  --code-bg: var(--blueberry-peach-dark-surface0);
+  --border: var(--blueberry-peach-dark-dimmed);
+}
+
+:root[data-theme="dark"].list {
+  background: var(--theme);
+}
+
+.chroma {
+  background-color: var(--blueberry-peach-dark-surface0) !important;
+}
+
+.post-content pre code {
+  background-color: var(--blueberry-peach-dark-surface0) !important;
+}
+
+.half-image {
+  width: calc(50% - 0.5rem);
+}
